@@ -1,0 +1,4 @@
+modelo,divergencias,total_iteracoes
+Conjugada,0,16000
+Jeffreys,0,16000
+Spike-slab,0,16000
